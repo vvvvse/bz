@@ -967,6 +967,19 @@ CCTV15,http://58.20.77.182:9901/tsfile/live/0015_1.m3u8?key=txiptv
 凤凰资讯,http://kxrj.site:1333/86/fh.php?id=fhzx
 凤凰香港,http://kxrj.site:1333/86/fh.php?id=fhhk
 
+凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+TVB翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+TVBJ1,http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
+TVB翡翠台(北美),http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
+黄金翡翠台,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
+明珠剧集(北美),http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
+TVB明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
+无线新闻台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+无线新闻台(北美),http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
+
+
 翡翠台,http://120.197.18.252:2901/udp/224.1.100.122:11111
 翡翠台,http://120.197.18.252:2901/udp/224.1.100.121:11111
 明珠台,http://120.197.18.252:2901/udp/224.1.100.124:11111
